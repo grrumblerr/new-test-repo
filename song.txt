@@ -1,3 +1,4 @@
 first half of the text
 second half of the text
 new content
+another new content
